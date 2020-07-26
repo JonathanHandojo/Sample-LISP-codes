@@ -10,4 +10,4 @@ You may be prompted with a dialog of whether you’d like to load this LISP file
 
 They may be .lsp files, but you can open them using notepad to view the step-by-step instructions that I’ve included in the .lsp files. Feel free to have a read there too. 
 
-Download the files by clicking on the green "Code" button below and choosing "Download ZIP". Feel free to have a try of these codes for yourself.
+Download the files by clicking on the green "Code" button on the top right of the page and choosing "Download ZIP". Feel free to have a try of these codes for yourself.
