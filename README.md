@@ -1,5 +1,5 @@
 # Sample-LISP-codes
-This short snippet dictates how you can load .lsp files into AutoCAD for use and the instructions on how to use the sample attached LISP files.
+This short snippet dictates how you can load .lsp files into AutoCAD for use.
 
 In order to load the attached files into AutoCAD, you can do one of two things:
 
